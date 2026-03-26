@@ -31,6 +31,7 @@ along with customer feedback text.
 <b>Dataset Source:</b><br>
 <a href="https://www.kaggle.com/datasets/beatafaron/telco-customer-churn-realistic-customer-feedback" target="_blank">
 Telco Customer Churn - Realistic Customer Feedback (Kaggle)
+Used the main dataset -"telco_churn_with_all_feedback"
 </a>
 </p>
 
